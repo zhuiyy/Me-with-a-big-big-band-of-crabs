@@ -1,1 +1,1 @@
-![deepthinking]()
+![deepthinking](https://github.com/zhuiyy/Me-with-a-big-big-band-of-crabs/blob/Laugh-Love-up-luck-truck-and-so-on/%E7%B1%BBGEB%E7%AC%91%E8%AF%9D/%E6%B7%B1%E5%BA%A6%E6%80%9D%E8%80%83/youdontneedtoopen.jpeg)
