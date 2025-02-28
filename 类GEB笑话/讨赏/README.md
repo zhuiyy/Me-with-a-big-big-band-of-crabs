@@ -1,3 +1,1 @@
-please enjoy
-
-enjoy please
+  ————选自刘宝瑞相声作品《官场斗》
