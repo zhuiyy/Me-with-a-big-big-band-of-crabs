@@ -27,3 +27,4 @@ tips：GEB = Godel, Escher, Bach-- An Eternal Golden Braid
 
 有些话其实是病句！（当然不是上面那行）
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhuiyy)](https://github.com/zhuiyy/github-readme-stats)
