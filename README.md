@@ -28,3 +28,8 @@ tips：GEB = Godel, Escher, Bach-- An Eternal Golden Braid
 有些话其实是病句！（当然不是上面那行）
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhuiyy)](https://github.com/zhuiyy/github-readme-stats)
+
+### 极易毙, 宜急避书单
+1) \<**G**odel, **E**scher, **B**ach-- An **E**ternal **G**olden **B**raid\> by Douglas Richard Hofstadter 最好能阅读多个不同语言的版本.
+
+2) \<House of Leaves\> by Jane Austen 最好能阅读英文彩图版. 理论上讲最好不要但是当然也可以试着稍稍提前[省流一下](https://www.bilibili.com/video/BV1w4VhzVE4B/?share_source=copy_web&vd_source=5674287728b697330ca58a945d07533a).
