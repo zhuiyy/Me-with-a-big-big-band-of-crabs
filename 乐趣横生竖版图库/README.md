@@ -1,1 +1,1 @@
-    欢迎补充图片
+    欢迎补充![图片](somewhere/pic.jpg)
