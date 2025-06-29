@@ -32,7 +32,7 @@ tips：GEB = Godel, Escher, Bach-- An Eternal Golden Braid
 
 2) \<House of Leaves\> by Jane Austen 最好能阅读英文彩图版. 理论上讲最好不要但是当然也可以试着稍稍提前[省流一下](https://www.bilibili.com/video/BV1w4VhzVE4B/?share_source=copy_web&vd_source=5674287728b697330ca58a945d07533a).
 
-3) [Have the English any Sense of Humour?](https://github.com/zhuiyy/Me-with-a-big-big-band-of-crabs/tree/Laugh-Love-up-luck-truck-and-so-on/%E7%B1%BB%E7%AC%91%E8%AF%9D/Have%20the%20English%20any%20Sense%20of%20Humour) by Stephen Leacock
+3) [\<Have the English any Sense of Humour?\>](https://github.com/zhuiyy/Me-with-a-big-big-band-of-crabs/tree/Laugh-Love-up-luck-truck-and-so-on/%E7%B1%BB%E7%AC%91%E8%AF%9D/Have%20the%20English%20any%20Sense%20of%20Humour) by Stephen Leacock
 
 ### Band大思考精选集:
 1) [忘了.md](https://github.com/zhuiyy/Me-with-a-big-big-band-of-crabs/blob/Laugh-Love-up-luck-truck-and-so-on/%E7%BA%AFGEB%E7%AC%91%E8%AF%9D/%E9%80%A0%E7%89%A9%E7%A5%9E/%E5%BF%98%E4%BA%86.md) 
