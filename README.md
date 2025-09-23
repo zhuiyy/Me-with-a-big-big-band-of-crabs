@@ -48,6 +48,10 @@ tips：GEB = Godel, Escher, Bach-- An Eternal Golden Braid
 1) [忘了.md](https://github.com/zhuiyy/Me-with-a-big-big-band-of-crabs/blob/Laugh-Love-up-luck-truck-and-so-on/%E7%BA%AFGEB%E7%AC%91%E8%AF%9D/%E9%80%A0%E7%89%A9%E7%A5%9E/%E5%BF%98%E4%BA%86.md)
 
 
+### 重要新闻!
+
+    三值逻辑研究已经有所推进!
+
 
 ###### 有人逼我写了这么一段话
 *如果*你**觉得**[我](where.Zhuiy)疯了, 可以看看我的其他repo, 但你总会回来的, have fun.
