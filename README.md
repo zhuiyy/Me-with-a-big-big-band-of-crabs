@@ -13,7 +13,7 @@ tips：GEB = Godel, Escher, Bach-- An Eternal Golden Braid
 
 其实第五段中没有中文
 
-行中没有中文？文中没有中文？
+段中没有中文？文中没有中文？
 
 你的脑子有没有问题？我为什么会这么问？
 
