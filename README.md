@@ -54,4 +54,5 @@ tips：GEB = Godel, Escher, Bach-- An Eternal Golden Braid
 
 
 ###### 有人逼我写了这么一段话
-*如果*你**觉得**[我](where.Zhuiy)疯了, 可以看看我的其他repo, 但你总会回来的, have fun.
+*如果*你**觉得**[我](where.Zhuiy)疯了:
+![GEB](./妙趣横生竖版图库/GEB.png)
