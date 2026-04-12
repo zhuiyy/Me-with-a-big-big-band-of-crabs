@@ -1,9 +1,9 @@
-# [ME](..)
-在read [me](..)之后，你欢迎自己为这个band贡献一些crabs，最好是能令人发笑的，文字优先。
+# [ME](https://github.com/zhuiyy/Me-with-a-big-big-band-of-crabs)
+在read [me](https://github.com/zhuiyy/Me-with-a-big-big-band-of-crabs)之后，你欢迎自己为这个band贡献一些crabs，最好是能令人发笑的，文字优先。
   
 为了能令人一眼笑出来，最好把精华，抽象的，哪怕只有一句话放进READ[ME](..).md里，例如：
   
-  这篇READ[ME](..).md中至少包含三个‘READ[ME](..).md’
+  这篇READ[ME](https://github.com/zhuiyy/Me-with-a-big-big-band-of-crabs).md中至少包含三个‘READ[ME](https://github.com/zhuiyy/Me-with-a-big-big-band-of-crabs).md’
 
 如你所见，GEB，记忆笔，加油吧，进一步等笑话最优先，优先上有更优先，wow！GEB！
 
@@ -17,7 +17,7 @@ tips：GEB = Godel, Escher, Bach-- An Eternal Golden Braid
 
 你的脑子有没有问题？我为什么会这么问？
 
-为什么不创建新的md文件来评论笑话呢？[ME](..)是最深刻的词！
+为什么不创建新的md文件来评论笑话呢？[ME](https://github.com/zhuiyy/Me-with-a-big-big-band-of-crabs)是最深刻的词！
 
 为什么不用音乐，代码，图片, 一切来评论！因为评论没法评论自己！这个笑话在哪来着......[k]
 

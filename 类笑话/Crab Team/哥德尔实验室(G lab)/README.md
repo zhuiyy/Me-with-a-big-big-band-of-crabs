@@ -6,7 +6,7 @@
 
 
 #### .
-我们的工作常暂挂在E room的[项目](../../..)上, 欢迎您的关注和讨论.
+我们的工作常暂挂在E room的[项目](https://github.com/zhuiyy/Me-with-a-big-big-band-of-crabs)上, 欢迎您的关注和讨论.
 
 ### 附
 正与B studio联合筹备明年的**哥德巴赫**巡演.
