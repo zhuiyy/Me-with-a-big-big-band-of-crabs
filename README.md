@@ -48,7 +48,7 @@ tips：GEB = Godel, Escher, Bach-- An Eternal Golden Braid
 1) [忘了.md](./纯GEB笑话/造物神/忘了.md)
 
 
-### 哥德巴赫实验室重要新闻!
+### 重要新闻!
 
     三值逻辑研究已经有所推进!
 
