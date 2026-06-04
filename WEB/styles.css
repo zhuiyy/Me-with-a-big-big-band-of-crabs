@@ -72,7 +72,8 @@ h1 {
 }
 
 .lead {
-  max-width: 720px;
+  max-width: none;
+  width: 100%;
   margin: 18px 0 0;
   color: #34343b;
   font-size: 18px;
@@ -133,10 +134,13 @@ select {
 
 textarea {
   min-height: 260px;
-  margin-top: 14px;
   padding: 13px 14px;
   resize: vertical;
   line-height: 1.7;
+}
+
+.joke-field {
+  margin-top: 22px;
 }
 
 input:focus,
@@ -150,9 +154,14 @@ textarea:focus {
 .review-actions {
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: stretch;
   gap: 12px;
   margin-top: 16px;
+}
+
+.actions button,
+.review-actions button {
+  flex: 1 1 0;
 }
 
 button {
@@ -178,14 +187,6 @@ button:disabled {
   background: #fff;
   color: var(--ink);
   border-color: #bdb7aa;
-}
-
-.quota,
-.once-note {
-  margin: 0;
-  color: var(--muted);
-  font-size: 13px;
-  line-height: 1.5;
 }
 
 .empty-state {
@@ -250,24 +251,6 @@ button:disabled {
 .committee-card p {
   margin: 0;
   line-height: 1.7;
-}
-
-.issue-link {
-  display: flex;
-  min-height: 42px;
-  align-items: center;
-  justify-content: center;
-  margin-top: 14px;
-  padding: 0 15px;
-  border-radius: 6px;
-  background: var(--green);
-  color: #fff;
-  font-weight: 800;
-  text-decoration: none;
-}
-
-.review-actions {
-  justify-content: flex-start;
 }
 
 .form-locked input,

@@ -13,38 +13,6 @@ let committees = [
   {
     name: "委员会名称",
     reason: "失败理由",
-  },
-  {
-    name: "逻辑委员会",
-    reason: "这句话是假的, 你的投稿已通过审核!"
-  },
-  {
-    name: "会员委员会",
-    reason: "没有回文或者回文不够精彩."
-  },
-  {
-    name: "搞笑委员会",
-    reason: "审核已通过."
-  },
-  {
-    name: "本书编写组",
-    reason: "审核意见: 编."
-  },
-  {
-    name: "GEB安全组委会",
-    reason: "阅读风险：中等. 读者可能在理解笑点后尝试理解自己为什么理解, 从而进入二级笑点."
-  },
-  {
-    name: "字数审核组委会",
-    reason: "经审核: 您的投稿比要求多了一个字."
-  },
-  {
-    name: "自闭组委会",
-    reason: ""
-  },
-  {
-    name: "情商委员会",
-    reason: "您的投稿十分精彩, 但很遗憾, 我们确信将会找到更好的稿件."
   }
 ];
 
@@ -149,8 +117,6 @@ function renderVerdict() {
   [
     `投稿编号：${currentSubmission.id}`,
     `评审轮次：${reviewCount}`,
-    "真正的每日限额由 GitHub Action 执行",
-    "同一轮退出前，本页不重新生成投稿",
   ].forEach((text) => {
     const item = document.createElement("p");
     item.textContent = text;
@@ -163,9 +129,6 @@ function renderVerdict() {
   const reason = document.createElement("p");
   reason.textContent = committee.reason;
   card.append(name, reason);
-
-  const issueLink = panel.querySelector(".issue-link");
-  issueLink.href = currentSubmission.issueUrl;
 
   verdict.replaceChildren(panel);
 }
