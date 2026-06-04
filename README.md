@@ -1,35 +1,35 @@
 # [ME](https://github.com/zhuiyy/Me-with-a-big-big-band-of-crabs)
-在read [me](https://github.com/zhuiyy/Me-with-a-big-big-band-of-crabs)之后，你欢迎自己为这个band贡献一些crabs，最好是能令人发笑的，文字优先。
+在read [me](https://github.com/zhuiyy/Me-with-a-big-big-band-of-crabs)之后, 你必定会点击:
+
+## [这句话要被点击了对吗?](https://zhuiyy.github.io/Me-with-a-big-big-band-of-crabs/)
   
-为了能令人一眼笑出来，最好把精华，抽象的，哪怕只有一句话放进READ[ME](..).md里，例如：
+为了能令人引人发笑, 最好把精华, 抽象的, 哪怕只有一句话放进READ[ME](..).md里, 例如：
   
   这篇READ[ME](https://github.com/zhuiyy/Me-with-a-big-big-band-of-crabs).md中至少包含三个‘READ[ME](https://github.com/zhuiyy/Me-with-a-big-big-band-of-crabs).md’
 
-如你所见，GEB，记忆笔，加油吧，进一步等笑话最优先，优先上有更优先，wow！GEB！
+如你所见, GEB, 记忆笔, 加油吧, 进一步, 隔壁.
 
-tips：GEB = Godel, Escher, Bach-- An Eternal Golden Braid
+tips：GEB = Godel, Escher, Bach--An Eternal Golden Braid
 
-当然，直接把GEB笑话摘抄过来你是相当欢迎自己的，因为这句话不是真的
+当然, 这句话不是真的.
 
-其实第五段中没有中文
+其实第五段中没有中文.
 
 段中没有中文？文中没有中文？
 
-你的脑子有没有问题？我为什么会这么问？
-
 为什么不创建新的md文件来评论笑话呢？[ME](https://github.com/zhuiyy/Me-with-a-big-big-band-of-crabs)是最深刻的词！
 
-为什么不用音乐，代码，图片, 一切来评论！因为评论没法评论自己！这个笑话在哪来着......[k]
+为什么不用音乐, 代码, 图片, 一切来评论！因为评论没法评论自己！这个笑话在哪来着......[k]
 
-你欢迎一切能触发美的联系, 对应, 同构. 以上的每一次出现都代表着宇宙可能的一次商! 你的findings能商得过宇宙扩张的速度吗? 在你的心里, 宇宙真的还在变大吗?
+一切能触发美的联系, 对应, 同构, 都代表着宇宙可能的一次商! 你的findings能商得过宇宙扩张的速度吗?
 
-你能理解集异壁, 你会有奇怪的体验, 你感受到自己被包裹的同时包裹着包裹自己的东西, 你在集异壁里面, 集异壁也在你里面.
+你肯定能理解集异壁, 这将会是一段奇怪的体验, 你会感受到自己被包裹的同时包裹着包裹自己的东西, 你在集异壁里面, 集异壁也在你里面.
 
-宇宙给了你无数的点, 你负责一点一点把他们连起来(这句话有着无与伦比的双关特性).
+宇宙给了你无数的点, 你负责一点一点把他们连起来(这句话是个无与伦比的双关).
 
 谁会连出什么样子? 全连接? 随机图? 全天88星座? 
 
-还是, 出现自环???
+甚至出现自环???
 
 ## 玩的开心！
 
