@@ -25,4 +25,4 @@
 网页每次随机抽一个委员会；如果用户点“换另一个委员会评审”，会尽量避免连续抽到同一个。
 
 # Warning
-There are no more jokes in WEB. W means 'Without Gödel, therefore there may be four bugs or less or more.
+There are no more jokes in WEB. W means 'Without Gödel, therefore there may be four bugs or less or more'.
