@@ -1,7 +1,7 @@
 # [ME](https://github.com/zhuiyy/Me-with-a-big-big-band-of-crabs)
 在read [me](https://github.com/zhuiyy/Me-with-a-big-big-band-of-crabs)之后, 你必定会点击:
 
-## [这句话要被点击了对吗?](https://zhuiyy.github.io/Me-with-a-big-big-band-of-crabs/)
+### [这段非话要被点击了对吗?](https://zhuiyy.github.io/Me-with-a-big-big-band-of-crabs/)
   
 为了能令人引人发笑, 最好把精华, 抽象的, 哪怕只有一句话放进READ[ME](..).md里, 例如：
   
@@ -13,7 +13,7 @@ tips：GEB = Godel, Escher, Bach--An Eternal Golden Braid
 
 当然, 这句话不是真的.
 
-其实第五段中没有中文.
+其实第六段中没有中文.
 
 段中没有中文？文中没有中文？
 
