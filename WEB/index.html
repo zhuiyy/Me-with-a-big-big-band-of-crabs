@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>WEB</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="shell">
+      <section class="hero" aria-labelledby="site-title">
+        <div class="hero-copy">
+          <p class="eyebrow">Band of Crabs 投稿入口</p>
+          <h1 id="site-title">WEB</h1>
+          <p class="lead">这里征集 GEB 笑话. 每条投稿会被转化为 draft PR, 由人类审核; 与此同时, 委员会会(委员会会而非委员会会会)竭力拒绝这条笑话.</p>
+        </div>
+      </section>
+
+      <section class="workspace" aria-label="投稿工作区">
+        <form class="submission" id="submission-form">
+          <div class="field-row">
+            <label>
+              <span>标题</span>
+              <input id="title" name="title" maxlength="80" placeholder="例如: 这里没有投稿" />
+            </label>
+            <label>
+              <span>拟投稿分类</span>
+              <select id="category" name="category">
+                <option>类GEB笑话</option>
+                <option>纯GEB笑话</option>
+                <option>纯笑话</option>
+                <option>类笑话</option>
+                <option>尚未分类</option>
+              </select>
+            </label>
+          </div>
+
+          <label class="joke-field">
+            <span>投稿正文</span>
+            <textarea id="joke" name="joke" minlength="2" maxlength="3000" required placeholder="把笑话放在这里. 解释笑话会影响退稿概率."></textarea>
+          </label>
+
+          <div class="actions" id="submit-actions">
+            <button type="submit" class="primary">生成投稿并接受拒绝</button>
+            <p class="quota">GitHub Action 每天最多把 5 条投稿转成 PR, 五个五个地.</p>
+          </div>
+        </form>
+
+        <section class="verdict" id="verdict" aria-live="polite">
+          <div class="empty-state">
+            <p>委员会尚未入座. </p>
+            <p>它们正在争论这个争论本身是否表明他们已经入座. </p>
+          </div>
+        </section>
+      </section>
+    </main>
+
+    <template id="verdict-template">
+      <div class="verdict-panel">
+        <div class="verdict-head">
+          <p class="stamp">投稿审查结果</p>
+          <h2></h2>
+        </div>
+        <div class="meta"></div>
+        <div class="committee-card"></div>
+        <a class="issue-link" target="_blank" rel="noreferrer" href="#">在 GitHub 完成这次投稿</a>
+        <div class="review-actions">
+          <button type="button" class="secondary" data-action="reroll">换另一个委员会评审</button>
+          <button type="button" class="primary" data-action="exit">退出</button>
+        </div>
+        <p class="once-note">本页已经为这条笑话生成过一次投稿链接, 继续评审只会更换更刻薄的委员会, 不会重新生成投稿. </p>
+      </div>
+    </template>
+
+    <script src="app.js"></script>
+  </body>
+</html>
