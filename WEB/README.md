@@ -24,6 +24,5 @@
 
 网页每次随机抽一个委员会；如果用户点“换另一个委员会评审”，会尽量避免连续抽到同一个。
 
-## GitHub Pages
-
-这个目录可以由 `.github/workflows/pages.yml` 部署为 Pages。网页本身不保存 GitHub token；真正转 PR 的动作在 GitHub Action 里执行。
+# Warning
+There are no more jokes in WEB. W means 'Without Gödel, therefore there may be four bugs or less or more.
