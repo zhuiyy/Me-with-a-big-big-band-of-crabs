@@ -2,7 +2,9 @@ name: Deploy WEB
 
 on:
   push:
-    branches: [main]
+    branches:
+      - main
+      - Laugh-Love-up-luck-truck-and-so-on
     paths:
       - "WEB/**"
       - ".github/workflows/pages.yml"
