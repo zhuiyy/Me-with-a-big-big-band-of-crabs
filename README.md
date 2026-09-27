@@ -12,6 +12,10 @@
 
 网页直接通过 GitHub 的 URL 参数预填 Issue，不依赖 Issue 模板或 GitHub Actions。
 
+## 发布
+
+GitHub Pages 从 `gh-pages` 分支的根目录发布。修改本站后，需要把本目录的内容同步到该分支；仓库刻意不使用自动发布工作流。
+
 ## 改委员会
 
 编辑 [committees.yml](./committees.yml)。
