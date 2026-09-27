@@ -1,9 +1,9 @@
 # [ME](https://github.com/zhuiyy/Me-with-a-big-big-band-of-crabs)
 在read [me](https://github.com/zhuiyy/Me-with-a-big-big-band-of-crabs)之后, 你必定会点击:
 
-### [这段非话要被点击了对吗?](https://zhuiyy.github.io/Me-with-a-big-big-band-of-crabs/)
+### [这段话要被点击了!](https://zhuiyy.github.io/Me-with-a-big-big-band-of-crabs/)
   
-为了能令人引人发笑, 最好把精华, 抽象的, 哪怕只有一句话放进READ[ME](..).md里, 例如：
+为了能令人引人发笑, 最好把精华, 抽象的, 哪怕只有一句话放进READ[ME](https://github.com/zhuiyy/Me-with-a-big-big-band-of-crabs).md里, 例如：
   
   这篇READ[ME](https://github.com/zhuiyy/Me-with-a-big-big-band-of-crabs).md中至少包含三个‘READ[ME](https://github.com/zhuiyy/Me-with-a-big-big-band-of-crabs).md’
 
