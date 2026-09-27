@@ -83,8 +83,6 @@ function pickCommittee() {
 function buildIssueUrl({ id, title, category, joke }) {
   const issueTitle = `WEB投稿：${title}`;
   const body = [
-    "<!-- TUTORIAL_WEB_SUBMISSION -->",
-    "",
     `投稿编号：${id}`,
     "",
     "## 拟投稿分类",
@@ -100,7 +98,6 @@ function buildIssueUrl({ id, title, category, joke }) {
     "这条投稿来自WEB。机器可以拒绝它，但不能替人类最终判断它。",
   ].join("\n");
   const params = new URLSearchParams({
-    template: "geb-joke.md",
     title: issueTitle,
     body,
   });
